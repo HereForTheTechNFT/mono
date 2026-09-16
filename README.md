@@ -1,3 +1,7 @@
+## Parcours francais
+
+Un parcours documentaire en francais est disponible dans [docs/fr/](docs/fr/).
+
 <p align="center">
   <img src="banner.png" alt="Goldfinch Protocol icon" width="100%"/>
 </p>
